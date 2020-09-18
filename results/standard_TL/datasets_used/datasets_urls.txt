@@ -1,0 +1,10 @@
+All datasets used for the transfer learning are avaible below:
+
+1) PROSTATEx dataset keeping only the DWI normalized, augmented and split into training/validation/ sets:
+- https://drive.google.com/open?id=1WOLzYd5MZXUHyBKZQr_ruyU1ZN-oWDOA
+
+2) Lung CT Challenge dataset normalized, augmented and split into training/validation sets:
+- https://drive.google.com/open?id=11XeaBPQnsMvoGw-jK3Wzz8YSDNQOZsZC
+
+3) Brain MRI Images for Brain Tumor Detection:
+- https://drive.google.com/open?id=11uF1njfMsp8kwDlMQUdjOVB71saP3jHF

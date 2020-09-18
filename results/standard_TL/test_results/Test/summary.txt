@@ -1,0 +1,13 @@
+
+            SUMMARY OF THE CLASSIFIER ON TEST SET
+            -------------------
+            Accuracy: 0.7368421052631579
+            Precision:0.4
+            Recall:   0.5
+            F1 score: 0.4444444444444445
+            Specificity: 0.8
+            AUC: 0.7166666666666666
+            --------------------
+            Running time: 0.8467521667480469
+
+            
