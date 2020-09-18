@@ -1,9 +1,0 @@
-Command to run the script
-
-$ python MNIST.py 
---trainingSet1 ./mnist_png/training 
---validationSet1 ./mnist_png/testing 
---nbepochs 50 
---lr 1e-4 
---batchsize 32 
---outputdirectory ./20191204_MNIST_test

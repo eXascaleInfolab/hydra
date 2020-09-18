@@ -7,9 +7,7 @@
 #                                       #
 #########################################
 import importlib
-spec2 = importlib.util.spec_from_file_location("normalizeDicom", "../dataset_processing/normalizeDicom.py")
-n = importlib.util.module_from_spec(spec2)
-spec2.loader.exec_module(n)
+import normalizeDicom as n
 import pydicom
 from PIL import Image
 

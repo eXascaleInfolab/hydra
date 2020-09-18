@@ -14,7 +14,7 @@ import pandas as pd
 from PIL import Image
 import numpy as np
 import importlib.util
-spec = importlib.util.spec_from_file_location("rawtopng", "../png_conversion/rawtopng.py")
+spec = importlib.util.spec_from_file_location("rawtopng", "../medical_format_to_png/rawtopng.py")
 rtp = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(rtp)
 

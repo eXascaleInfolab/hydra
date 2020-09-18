@@ -1,7 +1,0 @@
-
-            AUC OF THE CLASSIFIER ON THE TEST SET
-            -------------------
-            AUC: 0.75
-            --------------------
-            Running time: 0.8341419696807861
-            
