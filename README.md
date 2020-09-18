@@ -98,9 +98,6 @@ We propose an approach combining layer freezing and fine-tuning steps alternativ
 ```
 ## Folders description
 
-### challenges
-Contains scripts to process the official PROSTATEx challenge data and to generate predictions for the challenge.
-.
 ### datasets
 Contains processing scripts for the PROSTATEx, the Lung CT Challenge and Kaggle Brain datasets.
 
